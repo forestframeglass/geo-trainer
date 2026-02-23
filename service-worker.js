@@ -1,5 +1,5 @@
 // service-worker.js
-const CACHE_NAME = 'geo-trainer-v1.7.1'; // bump this to force an update
+const CACHE_NAME = 'geo-trainer-v1.7.2'; // bump this to force an update
 const ASSETS = [
   './index.html',
   './files/styles.css',
