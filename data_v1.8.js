@@ -5,7 +5,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Cayenne",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/gf.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -16,7 +16,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Hong Kong",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/hk.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -27,7 +27,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Douglas",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/im.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -38,7 +38,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "St Helier",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/je.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -53,7 +53,7 @@ window.DATA = [
     "capitalAlt": [
       "Macao"
     ],
-    "flag": null,
+    "flag": "files/flags/mo.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -64,7 +64,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Fort-de-France",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/mq.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -77,7 +77,7 @@ window.DATA = [
     "capitalAlt": [
       "Nouma"
     ],
-    "flag": null,
+    "flag": "files/flags/new-caledonia.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -95,7 +95,7 @@ window.DATA = [
     ],
     "capital": "Gustavia",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/bl.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -124,7 +124,7 @@ window.DATA = [
     ],
     "capital": "Mata Utu",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/wf.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -135,7 +135,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Laayoune",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/eh.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -146,7 +146,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Kabul",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/afghanistan.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -161,7 +161,7 @@ window.DATA = [
     ],
     "capital": "Mariehamn",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/ax.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -279,7 +279,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Oranjestad",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/aw.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -435,7 +435,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Sucre",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/bo.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -446,7 +446,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Kralendijk",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/bonaire.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -654,7 +654,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Flying Fish Cove",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/cx.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -668,7 +668,7 @@ window.DATA = [
     ],
     "capital": "West Island",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/cc.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -791,7 +791,7 @@ window.DATA = [
     ],
     "capital": "Willemstad",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/cw.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -1149,7 +1149,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Basse-Terre",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/guadeloupe.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -1685,7 +1685,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Mamoudzou",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/yt.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -1909,7 +1909,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Kingston",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/nf.jpeg",
     "flagDupGroup": null,
     "capDupGroup": "Yes Kingston",
     "lookup": "KEPT_EMBEDDED"
@@ -1934,7 +1934,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Saipan",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/mp.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2061,7 +2061,7 @@ window.DATA = [
     ],
     "capital": "Adamstown",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/pn.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2094,7 +2094,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "San Juan",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/pr.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2118,7 +2118,7 @@ window.DATA = [
     ],
     "capital": "Saint-Denis",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/re.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2165,7 +2165,7 @@ window.DATA = [
     ],
     "capital": "Jamestown",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/saint-helena.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2210,7 +2210,7 @@ window.DATA = [
     ],
     "capital": "Marigot",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/saint-martin.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2909,7 +2909,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "London",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/gb-eng.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2920,7 +2920,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Edinburgh",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/gb-sct.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2934,7 +2934,7 @@ window.DATA = [
     ],
     "capital": "Belfast",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/northern-ireland.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2945,7 +2945,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Cardiff",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/gb-wls.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2959,7 +2959,7 @@ window.DATA = [
     ],
     "capital": "Tskhinvali",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/south-ossetia.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2970,7 +2970,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Sukhumi",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/abkhazia.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2984,7 +2984,7 @@ window.DATA = [
     ],
     "capital": "North Nicosia",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/northern-cyprus.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -2995,7 +2995,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Tiraspol",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/transnistria.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3006,7 +3006,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Hargeisa",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/somaliland.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3019,7 +3019,7 @@ window.DATA = [
     "capitalAlt": [
       "Angra do Heroismo"
     ],
-    "flag": null,
+    "flag": "files/flags/azores.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3030,7 +3030,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Funchal",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/madeira.jpeg",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3044,7 +3044,7 @@ window.DATA = [
     ],
     "capital": "Oranjestad",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/sint-eustatius.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3057,7 +3057,7 @@ window.DATA = [
     "capitalAlt": [
       "Botte"
     ],
-    "flag": null,
+    "flag": "files/flags/saba.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3068,7 +3068,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Edinburgh of the Seven Seas",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/tristan-da-cunha.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"
@@ -3081,7 +3081,7 @@ window.DATA = [
     ],
     "capital": "Georgetown",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/ascension.png",
     "flagDupGroup": null,
     "capDupGroup": "Yes Guyana",
     "lookup": "KEPT_EMBEDDED"
@@ -3092,7 +3092,7 @@ window.DATA = [
     "countryAlt": [],
     "capital": "Lhasa",
     "capitalAlt": [],
-    "flag": null,
+    "flag": "files/flags/tibet.png",
     "flagDupGroup": null,
     "capDupGroup": null,
     "lookup": "KEPT_EMBEDDED"

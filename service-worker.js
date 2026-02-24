@@ -6,8 +6,6 @@ const RUNTIME_IMG_CACHE=`img-cache-${VERSION}`;
 const CORE_CACHE=`core-cache-${VERSION}`;
 const CORE_ASSETS=['index.html','quiz.html','leaderboards.html','manifest.webmanifest'];
 
-const SCOPE = self.registration.scope; // https://<user>.github.io/<repo>/
-
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CORE_CACHE).then(c=>c.addAll(CORE_ASSETS)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.map(k=>{if(!k.includes(VERSION)) return caches.delete(k);}))).then(()=>self.clients.claim()))});
 
@@ -21,15 +19,12 @@ async function staleWhileRevalidate(cacheName, request){
 self.addEventListener('fetch', e=>{
   const url=new URL(e.request.url);
   if(e.request.method!=='GET') return;
-  // svg flags (any path containing /svg/ and ending .svg)
   if(url.pathname.endsWith('.svg') && url.pathname.includes('/svg/')){
     e.respondWith(staleWhileRevalidate(RUNTIME_SVG_CACHE, e.request)); return;
   }
-  // embedded raster flags
   if((/\.(png|jpg|jpeg|webp|avif|gif)$/i).test(url.pathname) && url.pathname.includes('/files/flags/')){
     e.respondWith(staleWhileRevalidate(RUNTIME_IMG_CACHE, e.request)); return;
   }
-  // Core pages
   if(CORE_ASSETS.some(p=> url.pathname.endsWith(p))){
     e.respondWith((async()=>{ try{ const resp=await fetch(e.request); const c=await caches.open(CORE_CACHE); c.put(e.request, resp.clone()); return resp; }catch(_){ const c=await caches.open(CORE_CACHE); const cached=await c.match(e.request); return cached||Response.error(); } })()); return;
   }
